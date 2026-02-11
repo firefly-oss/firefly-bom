@@ -124,12 +124,6 @@ Then declare dependencies without a `<version>`:
 | `core-erp-purchasing-mgmt` | Purchasing management |
 | `core-erp-sales-mgmt` | Sales management |
 
-### Core Orchestration
-
-| Artifact | Description |
-|----------|-------------|
-| `core-orchestrator` | Process orchestration engine |
-
 ### Domain Services
 
 | Artifact | Description |
