@@ -280,50 +280,6 @@
             </dependency>
 
             <!-- ================= -->
-            <!-- Core ERP          -->
-            <!-- ================= -->
-            <dependency>
-                <groupId>com.firefly</groupId>
-                <artifactId>core-erp-accounting-mgmt</artifactId>
-                <version>1.0.0-SNAPSHOT</version>
-            </dependency>
-            <dependency>
-                <groupId>com.firefly</groupId>
-                <artifactId>core-erp-compliance-mgmt</artifactId>
-                <version>1.0.0-SNAPSHOT</version>
-            </dependency>
-            <dependency>
-                <groupId>com.firefly</groupId>
-                <artifactId>core-erp-crm-mgmt</artifactId>
-                <version>1.0.0-SNAPSHOT</version>
-            </dependency>
-            <dependency>
-                <groupId>com.firefly</groupId>
-                <artifactId>core-erp-inventory-mgmt</artifactId>
-                <version>1.0.0-SNAPSHOT</version>
-            </dependency>
-            <dependency>
-                <groupId>com.firefly</groupId>
-                <artifactId>core-erp-logistic-mgmt</artifactId>
-                <version>1.0.0-SNAPSHOT</version>
-            </dependency>
-            <dependency>
-                <groupId>com.firefly</groupId>
-                <artifactId>core-erp-master-data-mgmt</artifactId>
-                <version>1.0.0-SNAPSHOT</version>
-            </dependency>
-            <dependency>
-                <groupId>com.firefly</groupId>
-                <artifactId>core-erp-purchasing-mgmt</artifactId>
-                <version>1.0.0-SNAPSHOT</version>
-            </dependency>
-            <dependency>
-                <groupId>com.firefly</groupId>
-                <artifactId>core-erp-sales-mgmt</artifactId>
-                <version>1.0.0-SNAPSHOT</version>
-            </dependency>
-
-            <!-- ================= -->
             <!-- Domain Services   -->
             <!-- ================= -->
             <dependency>
@@ -507,16 +463,6 @@
             <dependency>
                 <groupId>com.firefly</groupId>
                 <artifactId>core-data-template-sdk</artifactId>
-                <version>1.0.0-SNAPSHOT</version>
-            </dependency>
-            <dependency>
-                <groupId>com.firefly</groupId>
-                <artifactId>core-erp-inventory-mgmt-sdk</artifactId>
-                <version>1.0.0-SNAPSHOT</version>
-            </dependency>
-            <dependency>
-                <groupId>com.firefly</groupId>
-                <artifactId>core-erp-logistic-sdk</artifactId>
                 <version>1.0.0-SNAPSHOT</version>
             </dependency>
             <dependency>

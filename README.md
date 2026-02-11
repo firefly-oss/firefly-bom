@@ -111,19 +111,6 @@ Then declare dependencies without a `<version>`:
 | `core-data-credit-bureaus` | Credit bureau integration |
 | `core-data-template` | Data service template |
 
-### Core ERP
-
-| Artifact | Description |
-|----------|-------------|
-| `core-erp-accounting-mgmt` | ERP accounting |
-| `core-erp-compliance-mgmt` | ERP compliance |
-| `core-erp-crm-mgmt` | CRM management |
-| `core-erp-inventory-mgmt` | Inventory management |
-| `core-erp-logistic-mgmt` | Logistics management |
-| `core-erp-master-data-mgmt` | ERP master data |
-| `core-erp-purchasing-mgmt` | Purchasing management |
-| `core-erp-sales-mgmt` | Sales management |
-
 ### Domain Services
 
 | Artifact | Description |
