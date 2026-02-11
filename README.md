@@ -1,6 +1,8 @@
 # Firefly BOM (Bill of Materials)
 
-Centralized version management for **all** Firefly OpenCore Banking Platform artifacts. Import this BOM to pin every Firefly library, core service, domain service, and application module to a single, consistent version.
+Centralized version management for **all** Firefly OpenCore Banking Platform `com.firefly` artifacts. Import this BOM to pin every Firefly library, core service, domain service, and application module to a single, consistent version.
+
+> **Note:** This BOM manages `com.firefly` artifact versions only. The `org.fireflyframework` artifact versions are managed separately by the `fireflyframework-bom` (imported automatically via `firefly-parent`).
 
 ## What It Provides
 
@@ -153,4 +155,4 @@ Then declare dependencies without a `<version>`:
 
 ## Related
 
-- [firefly-parent](../firefly-parent) - Parent POM with shared dependency and plugin management
+- [firefly-parent](../firefly-parent) - Parent POM (extends `fireflyframework-parent`, imports `fireflyframework-bom` at **26.02.01**)
