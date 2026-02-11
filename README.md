@@ -155,4 +155,4 @@ Then declare dependencies without a `<version>`:
 
 ## Related
 
-- [firefly-parent](../firefly-parent) - Parent POM (extends `fireflyframework-parent`, imports `fireflyframework-bom` at **26.02.01**)
+- [firefly-parent](https://github.com/firefly-oss/firefly-parent) - Parent POM (extends `fireflyframework-parent`, imports `fireflyframework-bom` at **26.02.01**)
