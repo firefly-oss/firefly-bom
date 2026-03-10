@@ -278,6 +278,16 @@
             <!-- ================= -->
             <dependency>
                 <groupId>com.firefly</groupId>
+                <artifactId>domain-common-contracts</artifactId>
+                <version>1.0.0-SNAPSHOT</version>
+            </dependency>
+            <dependency>
+                <groupId>com.firefly</groupId>
+                <artifactId>domain-common-notifications</artifactId>
+                <version>1.0.0-SNAPSHOT</version>
+            </dependency>
+            <dependency>
+                <groupId>com.firefly</groupId>
                 <artifactId>domain-core-configuration</artifactId>
                 <version>1.0.0-SNAPSHOT</version>
             </dependency>
@@ -324,6 +334,15 @@
             <dependency>
                 <groupId>com.firefly</groupId>
                 <artifactId>domain-product-pricing</artifactId>
+                <version>1.0.0-SNAPSHOT</version>
+            </dependency>
+
+            <!-- ================= -->
+            <!-- Experience         -->
+            <!-- ================= -->
+            <dependency>
+                <groupId>com.firefly</groupId>
+                <artifactId>exp-distributor</artifactId>
                 <version>1.0.0-SNAPSHOT</version>
             </dependency>
 
@@ -516,6 +535,16 @@
             </dependency>
             <dependency>
                 <groupId>com.firefly</groupId>
+                <artifactId>domain-common-contracts-sdk</artifactId>
+                <version>1.0.0-SNAPSHOT</version>
+            </dependency>
+            <dependency>
+                <groupId>com.firefly</groupId>
+                <artifactId>domain-common-notifications-sdk</artifactId>
+                <version>1.0.0-SNAPSHOT</version>
+            </dependency>
+            <dependency>
+                <groupId>com.firefly</groupId>
                 <artifactId>domain-core-configuration-sdk</artifactId>
                 <version>1.0.0-SNAPSHOT</version>
             </dependency>
@@ -567,6 +596,11 @@
             <dependency>
                 <groupId>com.firefly</groupId>
                 <artifactId>bfc-initconfig-sdk</artifactId>
+                <version>1.0.0-SNAPSHOT</version>
+            </dependency>
+            <dependency>
+                <groupId>com.firefly</groupId>
+                <artifactId>exp-distributor-sdk</artifactId>
                 <version>1.0.0-SNAPSHOT</version>
             </dependency>
             <dependency>
