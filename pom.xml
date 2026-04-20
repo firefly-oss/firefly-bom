@@ -166,6 +166,11 @@
             </dependency>
             <dependency>
                 <groupId>com.firefly</groupId>
+                <artifactId>core-lending-personal-loans</artifactId>
+                <version>1.0.0-SNAPSHOT</version>
+            </dependency>
+            <dependency>
+                <groupId>com.firefly</groupId>
                 <artifactId>core-lending-provisioning-risk</artifactId>
                 <version>1.0.0-SNAPSHOT</version>
             </dependency>
@@ -339,6 +344,11 @@
             <dependency>
                 <groupId>com.firefly</groupId>
                 <artifactId>domain-lending-asset-finance</artifactId>
+                <version>1.0.0-SNAPSHOT</version>
+            </dependency>
+            <dependency>
+                <groupId>com.firefly</groupId>
+                <artifactId>domain-lending-personal-loans</artifactId>
                 <version>1.0.0-SNAPSHOT</version>
             </dependency>
             <dependency>
@@ -560,6 +570,11 @@
             </dependency>
             <dependency>
                 <groupId>com.firefly</groupId>
+                <artifactId>core-lending-personal-loans-sdk</artifactId>
+                <version>1.0.0-SNAPSHOT</version>
+            </dependency>
+            <dependency>
+                <groupId>com.firefly</groupId>
                 <artifactId>core-lending-provisioning-risk-sdk</artifactId>
                 <version>1.0.0-SNAPSHOT</version>
             </dependency>
@@ -636,6 +651,11 @@
             <dependency>
                 <groupId>com.firefly</groupId>
                 <artifactId>domain-lending-asset-finance-sdk</artifactId>
+                <version>1.0.0-SNAPSHOT</version>
+            </dependency>
+            <dependency>
+                <groupId>com.firefly</groupId>
+                <artifactId>domain-lending-personal-loans-sdk</artifactId>
                 <version>1.0.0-SNAPSHOT</version>
             </dependency>
             <dependency>
