@@ -269,7 +269,7 @@
             <!-- ================= -->
             <dependency>
                 <groupId>com.firefly</groupId>
-                <artifactId>core-data-credit-bureaus</artifactId>
+                <artifactId>domain-data-credit-bureaus</artifactId>
                 <version>1.0.0-SNAPSHOT</version>
             </dependency>
             <dependency>
@@ -530,7 +530,7 @@
             </dependency>
             <dependency>
                 <groupId>com.firefly</groupId>
-                <artifactId>core-data-credit-bureaus-sdk</artifactId>
+                <artifactId>domain-data-credit-bureaus-sdk</artifactId>
                 <version>1.0.0-SNAPSHOT</version>
             </dependency>
             <dependency>

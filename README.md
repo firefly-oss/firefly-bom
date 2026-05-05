@@ -108,7 +108,7 @@ Then declare dependencies without a `<version>`:
 
 | Artifact | Description |
 |----------|-------------|
-| `core-data-credit-bureaus` | Credit bureau integration |
+| `domain-data-credit-bureaus` | Credit bureau integration |
 | `core-data-template` | Data service template |
 
 ### Domain Services
